@@ -8,28 +8,37 @@ Repositório destinado ao curso de desenvolvimento mobile utilizando o framework
   O App é composto por duas seções, histórico de transferências e nova transferência.
 
   1. <strong>Transferências:</strong> Essa sessão é composta pelo histórico de transações efetuadas pelo usuário.
-  <img src="https://github.com/AndreWar10/Projeto-Glass/blob/master/2021-12-07%20(2).png"/>
-  
-  #
-  
   2. <strong>Nova Transferência:</strong> Essa sessão tem por finalidade efetuar uma nova transferência.
-  <img src="https://github.com/AndreWar10/Projeto-Glass/blob/master/glass.src/especificacoes.jpg"/>
-  
-  #
-  
   <table>
   <tr>
     <td>
-      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-home.png" alt="Home - version mobile">
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-retrato.jpeg" alt="Transferencias - version mobile" height="600px">
     </td>
     <td>
-      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-internal-1.png" alt="Movie Detail - version mobile">
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-retrato.jpeg" alt="Nova Transferência - version mobile" height="600px">
     </td>
+  </table>
+  
+  #
+  
+  Resultado com a tela rotacionada:
+  <table>
+  <tr>
     <td>
-      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-internal-2.png" alt="Movie Dateil - version mobile">
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-rotacionada.jpeg" alt="Transferencias - version mobile" width="800px">
     </td>
+  </table>
+  
+  
+  
+
+ 
+ <table> 
+    
   </tr>
 </table>
+
+#
 
 ## 💼 Tecnologias utilizadas
   Para o desenvolvimento do App, utilizei o framework Flutter.
