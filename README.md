@@ -1,15 +1,31 @@
-# cyber-bank
+<div align="center"> 
+  <strong>🤖 Cyber Bank :</strong>
+</div>
 
-<div>
-
+<div align="center">
 Repositório destinado ao curso de desenvolvimento mobile utilizando o framework Flutter.
-
-## 📚 Telas do App:
+</div>  
+  
+<div align="center">  
   O App é composto por duas seções, histórico de transferências e nova transferência.
+</div>
 
-  1. <strong>Transferências:</strong> Essa sessão é composta pelo histórico de transações efetuadas pelo usuário.
-  2. <strong>Nova Transferência:</strong> Essa sessão tem por finalidade efetuar uma nova transferência.
-  <table>
+  #
+<div align="center"> 
+  <strong>📚 Telas do App:</strong>
+</div>
+
+
+<div align="center">  
+   <strong>1. Transferências:</strong> Essa sessão é composta pelo histórico de transações efetuadas pelo usuário.
+</div>
+<div align="center"> 
+   <strong>2. Nova Transferência:</strong> Essa sessão tem por finalidade efetuar uma nova transferência.
+</div>
+  
+  #
+
+  <table align="center">
   <tr>
     <td>
       <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-retrato.jpeg" alt="Transferencias - version mobile" height="600px">
@@ -20,31 +36,21 @@ Repositório destinado ao curso de desenvolvimento mobile utilizando o framework
   </table>
   
   #
+  <div align="center">
+  3. <strong>Rotação:</strong> Visualização das telas caso o usuário use o modo rotacionado:
+  </div>
+  #
   
-  Resultado com a tela rotacionada:
-  <table>
+  <table align="center">
   <tr>
     <td>
-      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-rotacionada.jpeg" alt="Transferencias - version mobile" width="800px">
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transferencias-rotacionada.jpeg" alt="Transferencias - version mobile" width="500px">
+    </td>
+    <td>
+      <img src="https://github.com/AndreWar10/cyber-bank/blob/master/img/transacao-rotacionado.jpeg" alt="Transferencias - version mobile" width="500px">
     </td>
   </table>
+<div align="center">  
   
-  
-  
-
- 
- <table> 
-    
-  </tr>
-</table>
-
-#
-
-## 💼 Tecnologias utilizadas
-  Para o desenvolvimento do App, utilizei o framework Flutter.
-
-
-## 🦄 Github
-<a href="https://github.com/AndreWar10/" alt="Github">
-<img src="https://img.shields.io/badge/-Github-1C1C1C?style=for-the-badge&logo=Github&logoColor=00FFFF&link=https://github.com/AndreWar10/"/>
-</a>
+## 💼 Tecnologias utilizadas: Framework Flutter.
+</div>  
