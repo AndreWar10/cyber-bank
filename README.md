@@ -16,6 +16,20 @@ Repositório destinado ao curso de desenvolvimento mobile utilizando o framework
   <img src="https://github.com/AndreWar10/Projeto-Glass/blob/master/glass.src/especificacoes.jpg"/>
   
   #
+  
+  <table>
+  <tr>
+    <td>
+      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-home.png" alt="Home - version mobile">
+    </td>
+    <td>
+      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-internal-1.png" alt="Movie Detail - version mobile">
+    </td>
+    <td>
+      <img src="https://github.com/matheusportoo/movies-app/blob/master/media/mb-internal-2.png" alt="Movie Dateil - version mobile">
+    </td>
+  </tr>
+</table>
 
 ## 💼 Tecnologias utilizadas
   Para o desenvolvimento do App, utilizei o framework Flutter.
